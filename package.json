@@ -1,0 +1,19 @@
+{
+  "name": "workshop5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishaan",
+  "license": "ISC",
+  "dependencies": {
+    "cron-master": "^1.0.1",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "node-cron": "^3.0.3"
+  }
+}
